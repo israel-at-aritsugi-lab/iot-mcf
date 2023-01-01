@@ -25,18 +25,18 @@ Getting started
 
     ```
 1. With your system design, deploy each of the subsystems on to the corresponding hardware:
-    1. Find Monitoring Subsystem setup information [here](Monitoring\ Subsystem/README.md)
-    1. Find Control Subsystem setup information [here](Control\ Subsystem/README.md)
-    1. Find Computing Subsystem setup information [here](Computing\ Subsystem/README.md)
+    1. Find Monitoring Subsystem setup information [here](./Monitoring%20Subsystem/README.md)
+    1. Find Control Subsystem setup information [here](./Control%20Subsystem/README.md)
+    1. Find Computing Subsystem setup information [here](./Computing%20Subsystem/README.md)
 
-### Usage
+<!-- ### Usage
 To start the monitoring and control framework, run the following command:
 
 ``` c
 python main.py
 
 
-```
+``` -->
 
 Contribution
 =============
