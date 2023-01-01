@@ -7,7 +7,7 @@ Welcome to the Monitoring and Control Framework for IoT repository! This framewo
 
 - Real-time monitoring of IoT devices and systems
 - Remote control of IoT devices
-- Support for a variety of IoT protocols and architectures, including REST, MQTT, and WebSocket
+- Support for a variety of IoT protocols and architectures, including REST
 - Scalable and extensible design, allowing for easy integration of new devices and functionality
 
 ## Getting started
@@ -18,17 +18,17 @@ Welcome to the Monitoring and Control Framework for IoT repository! This framewo
 ### Installation
 
 1. Clone the repository:
-    ``` c
+    ``` 
     git clone https://github.com/israel-at-aritsugi-lab/iot-mcf
 
     ```
 1. Navigate to the project directory:
-    ``` c
+    ``` 
     cd monitoring-control-framework-iot
 
     ```
 1. Install the required dependencies:
-    ``` c
+    ``` 
     pip install -r requirements.txt
 
     ```
